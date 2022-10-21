@@ -8,7 +8,6 @@ dash-core-components==2.0.0
 dash-html-components==2.0.0
 dash-renderer==1.9.1
 dash-table==5.0.0
-dataclasses==0.8
 Flask==2.0.3
 Flask-Compress==1.13
 gunicorn==20.1.0
